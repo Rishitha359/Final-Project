@@ -1,0 +1,52 @@
+/* App.css */
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: white;
+}
+
+h2 {
+  color: #343a40;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.mb-30 {
+  margin-bottom: 30px;
+}
+/* App.css */
+.navbar-custom {
+  background-color: #7754f7; /* Custom background color */
+  border-bottom: 2px solid #5c4fcb; /* Subtle border at the bottom */
+}
+
+.navbar-custom .navbar-brand {
+  color: white; /* Brand color */
+  font-size: 1.5rem; /* Larger font size for brand */
+}
+
+.navbar-custom .nav-link {
+  color: white; /* Link color */
+  margin-right: 20px; /* Space between links */
+  font-weight: 500; /* Medium weight for links */
+}
+
+.navbar-custom .nav-link:hover {
+  color: #ffd700; /* Gold color on hover */
+  text-decoration: underline; /* Underline effect on hover */
+}
+
+.navbar-custom .navbar-brand:hover {
+  color: #ffd700; /* Gold color on brand hover */
+}
+#lin{
+  color: white;
+  text-decoration: none;
+}
